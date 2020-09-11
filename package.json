@@ -1,0 +1,22 @@
+{
+  "name": "fastgo",
+  "version": "1.0.0",
+  "description": "Fastgo is a Go game engine with several built-in features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "go",
+    "game",
+    "board",
+    "fastgo",
+    "waffle"
+  ],
+  "author": "Alper Berber <berber@sabanciuniv.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
